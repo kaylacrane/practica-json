@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shopping_list>
+    <supermarket>
+        <id>10001</id>
+        <name>Carrefour</name>
+        <address>
+            <street>Polígono Comercial Megapark, Plaza del Comercio, 11-13</street>
+            <city>San Sebastián de los Reyes</city>
+            <postCode>28703</postCode>
+        </address>
+        <coordinates>
+            <latitude>40.54187643414856</latitude>
+            <longitude>-3.6148530520198707</longitude>
+        </coordinates>
+        <telephone>675258049</telephone>
+        <image>http://1000marcas.net/wp-content/uploads/2020/11/Carrefour-Logo.png</image>
+        <products>
+            <item>
+                <id>20038474</id>
+                <name>Canary Island Bananas</name>
+                <description>bananas from Canary Islands, Spain</description>
+                <department>produce</department>
+                <brand>Coplaca</brand>
+                <unit>kg</unit>
+                <quantity>1</quantity>
+                <price>1.99</price>
+                <origin>domestic</origin>
+                <expiration>2021-04-02</expiration>
+                <inCart>false</inCart>
+                <quantityInCart>0</quantityInCart>
+            </item>
+            <item>
+                <id>35051582</id>
+                <name>Avacados 500g</name>
+                <description>Tray of avocados</description>
+                <department>produce</department>
+                <brand>Carrefour</brand>
+                <unit>g</unit>
+                <quantity>500</quantity>
+                <price>2</price>
+                <origin>foreign</origin>
+                <expiration>2021-04-04</expiration>
+                <inCart>false</inCart>
+                <quantityInCart>0</quantityInCart>
+            </item>
+            <item>
+                <id>35051582</id>
+                <name>Mandarins</name>
+                <description>Mesh sack of mandarines</description>
+                <department>produce</department>
+                <brand>Carrefour</brand>
+                <unit>kg</unit>
+                <quantity>1</quantity>
+                <price>1.89</price>
+                <origin>domestic</origin>
+                <expiration>2021-05-01</expiration>
+                <inCart>false</inCart>
+                <quantityInCart>0</quantityInCart>
+            </item>
+            <item>
+                <id>50458923</id>
+                <name>Sliced Bread</name>
+                <description>Family size loaf of sliced white bread</description>
+                <department>bakery</department>
+                <brand>Bimbo</brand>
+                <unit>g</unit>
+                <quantity>700</quantity>
+                <price>1.83</price>
+                <origin>domestic</origin>
+                <expiration>2021-04-15</expiration>
+                <inCart>false</inCart>
+                <quantityInCart>0</quantityInCart>
+            </item>
+            <item>
+                <id>89898993</id>
+                <name>Tuna Empanada</name>
+                <description>Fresh baked tuna empanada</description>
+                <department>bakery</department>
+                <brand>Carrefour</brand>
+                <unit>individual</unit>
+                <quantity>1</quantity>
+                <price>4.5</price>
+                <origin>domestic</origin>
+                <expiration>2022-01-30</expiration>
+                <inCart>false</inCart>
+                <quantityInCart>0</quantityInCart>
+            </item>
+            <item>
+                <id>85156355</id>
+                <name>Italian Mozzarella</name>
+                <description>Ball of fresh mozzarella</description>
+                <department>dairy</department>
+                <brand>Galbani</brand>
+                <unit>g</unit>
+                <quantity>125</quantity>
+                <price>1.78</price>
+                <origin>foreign</origin>
+                <expiration>2021-03-31</expiration>
+                <inCart>false</inCart>
+                <quantityInCart>0</quantityInCart>
+            </item>
+            <item>
+                <id>65480003</id>
+                <name>Whole Milk</name>
+                <description>Carton of whole cow milk</description>
+                <department>dairy</department>
+                <brand>Asturiana</brand>
+                <unit>l</unit>
+                <quantity>1</quantity>
+                <price>0.76</price>
+                <origin>domestic</origin>
+                <expiration>2021-04-08</expiration>
+                <inCart>false</inCart>
+                <quantityInCart>0</quantityInCart>
+            </item>
+        </products>
+        <on_sale_products>
+            <item>
+                <id>65480483</id>
+                <name>Pineapple</name>
+                <description>Whole pineapple</description>
+                <department>produce</department>
+                <brand>La Dorada</brand>
+                <unit>individual</unit>
+                <quantity>1</quantity>
+                <price>3.18</price>
+                <salePrice>2.78</salePrice>
+                <origin>foreign</origin>
+                <expiration>2021-04-05</expiration>
+                <inCart>false</inCart>
+                <quantityInCart>0</quantityInCart>
+            </item>
+            <item>
+                <id>80455226</id>
+                <name>Chocolate Donuts</name>
+                <description>Box of chocolate donuts</description>
+                <department>bakery</department>
+                <brand>Carrefour</brand>
+                <unit>individual</unit>
+                <quantity>1</quantity>
+                <price>2.99</price>
+                <salePrice>2.55</salePrice>
+                <origin>domestic</origin>
+                <expiration>2021-04-06</expiration>
+                <inCart>false</inCart>
+                <quantityInCart>0</quantityInCart>
+            </item>
+        </on_sale_products>
+    </supermarket>
+    <supermarket>
+        <id>10002</id>
+        <name>Aldi</name>
+        <address>
+            <street>Avenida Einstein</street>
+            <city>San Sebastián de los Reyes</city>
+            <postCode>28703</postCode>
+        </address>
+        <coordinates>
+            <latitude>40.540769825897506</latitude>
+            <longitude>-3.610987018654218</longitude>
+        </coordinates>
+        <telephone>900902466</telephone>
+        <image>https://corporate.aldi.us/fileadmin/_processed_/7/6/csm_aldi_logo_2017_cbae513198.jpg</image>
+        <products>
+            <item>
+                <id>656882</id>
+                <name>Turkey breasts</name>
+                <description>Tray of turkey breasts</description>
+                <department>meats</department>
+                <brand>Aldi</brand>
+                <unit>g</unit>
+                <quantity>500</quantity>
+                <price>4.15</price>
+                <origin>domestic</origin>
+                <expiration>2021-04-01</expiration>
+                <inCart>false</inCart>
+                <quantityInCart>0</quantityInCart>
+            </item>
+            <item>
+                <id>825523</id>
+                <name>Pork Chops</name>
+                <description>Tray of pork chops</description>
+                <department>meats</department>
+                <brand>Aldi</brand>
+                <unit>g</unit>
+                <quantity>400</quantity>
+                <price>5.65</price>
+                <origin>domestic</origin>
+                <expiration>2021-04-02</expiration>
+                <inCart>false</inCart>
+                <quantityInCart>0</quantityInCart>
+            </item>
+            <item>
+                <id>50458923</id>
+                <name>Zucchini</name>
+                <description>Ronde de Nice zucchini</description>
+                <department>produce</department>
+                <brand>Le Marché</brand>
+                <unit>g</unit>
+                <quantity>600</quantity>
+                <price>1.95</price>
+                <origin>foreign</origin>
+                <expiration>2021-04-28</expiration>
+                <inCart>false</inCart>
+                <quantityInCart>0</quantityInCart>
+            </item>
+            <item>
+                <id>89898993</id>
+                <name>Strawberries</name>
+                <description>Tray of Spanish strawberries</description>
+                <department>produce</department>
+                <brand>Buena Vida</brand>
+                <unit>g</unit>
+                <quantity>500</quantity>
+                <price>2.09</price>
+                <origin>domestic</origin>
+                <expiration>2021-04-06</expiration>
+                <inCart>false</inCart>
+                <quantityInCart>0</quantityInCart>
+            </item>
+        </products>
+        <on_sale_products>
+            <item>
+                <id>65788122</id>
+                <name>Broccoli</name>
+                <description>Tray of broccoli</description>
+                <department>produce</department>
+                <brand>Campo Verde</brand>
+                <unit>g</unit>
+                <quantity>500</quantity>
+                <price>1.19</price>
+                <salePrice>0.89</salePrice>
+                <origin>domestic</origin>
+                <expiration>2021-04-06</expiration>
+                <inCart>false</inCart>
+                <quantityInCart>0</quantityInCart>
+            </item>
+            <item>
+                <id>32557982</id>
+                <name>Olive Oil</name>
+                <description>Bottle of extra virgin olive oil</description>
+                <department>canned and bottled goods</department>
+                <brand>Coosur</brand>
+                <unit>l</unit>
+                <quantity>1</quantity>
+                <price>5.24</price>
+                <salePrice>3.58</salePrice>
+                <origin>domestic</origin>
+                <expiration>2022-03-20</expiration>
+                <inCart>false</inCart>
+                <quantityInCart>0</quantityInCart>
+            </item>
+            <item>
+                <id>12554336</id>
+                <name>Eggs</name>
+                <description>Half dozen eggs</description>
+                <department>meats</department>
+                <brand>Gutbio</brand>
+                <unit>individual</unit>
+                <quantity>1</quantity>
+                <price>1.99</price>
+                <salePrice>1.59</salePrice>
+                <origin>domestic</origin>
+                <expiration>2021-04-10</expiration>
+                <inCart>false</inCart>
+                <quantityInCart>0</quantityInCart>
+            </item>
+        </on_sale_products>
+    </supermarket>
+</shopping_list>

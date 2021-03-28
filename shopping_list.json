@@ -1,0 +1,263 @@
+[
+  {
+    "id": 10001,
+    "name": "Carrefour",
+    "address": {
+      "street": "Polígono Comercial Megapark, Plaza del Comercio, 11-13",
+      "city": "San Sebastián de los Reyes",
+      "postCode": 28703
+    },
+    "coordinates": [40.54187643414856, -3.6148530520198707],
+    "telephone": 675258049,
+    "image": "http://1000marcas.net/wp-content/uploads/2020/11/Carrefour-Logo.png",
+    "products": [
+      {
+        "id": 20038474,
+        "name": "Canary Island Bananas",
+        "description": "bananas from Canary Islands, Spain",
+        "department": "produce",
+        "brand": "Coplaca",
+        "unit": "kg",
+        "quantity": 1,
+        "price": 1.99,
+        "origin": "domestic",
+        "expiration": "2021-04-02",
+        "inCart": false,
+        "quantityInCart": 0
+      },
+      {
+        "id": 35051582,
+        "name": "Avacados 500g",
+        "description": "Tray of avocados",
+        "department": "produce",
+        "brand": "Carrefour",
+        "unit": "g",
+        "quantity": 500,
+        "price": 2.0,
+        "origin": "foreign",
+        "expiration": "2021-04-04",
+        "inCart": false,
+        "quantityInCart": 0
+      },
+      {
+        "id": 35051582,
+        "name": "Mandarins",
+        "description": "Mesh sack of mandarines",
+        "department": "produce",
+        "brand": "Carrefour",
+        "unit": "kg",
+        "quantity": 1,
+        "price": 1.89,
+        "origin": "domestic",
+        "expiration": "2021-05-01",
+        "inCart": false,
+        "quantityInCart": 0
+      },
+      {
+        "id": 50458923,
+        "name": "Sliced Bread",
+        "description": "Family size loaf of sliced white bread",
+        "department": "bakery",
+        "brand": "Bimbo",
+        "unit": "g",
+        "quantity": 700,
+        "price": 1.83,
+        "origin": "domestic",
+        "expiration": "2021-04-15",
+        "inCart": false,
+        "quantityInCart": 0
+      },
+      {
+        "id": 89898993,
+        "name": "Tuna Empanada",
+        "description": "Fresh baked tuna empanada",
+        "department": "bakery",
+        "brand": "Carrefour",
+        "unit": "individual",
+        "quantity": 1,
+        "price": 4.5,
+        "origin": "domestic",
+        "expiration": "2022-01-30",
+        "inCart": false,
+        "quantityInCart": 0
+      },
+      {
+        "id": 85156355,
+        "name": "Italian Mozzarella",
+        "description": "Ball of fresh mozzarella",
+        "department": "dairy",
+        "brand": "Galbani",
+        "unit": "g",
+        "quantity": 125,
+        "price": 1.78,
+        "origin": "foreign",
+        "expiration": "2021-03-31",
+        "inCart": false,
+        "quantityInCart": 0
+      },
+      {
+        "id": 65480003,
+        "name": "Whole Milk",
+        "description": "Carton of whole cow milk",
+        "department": "dairy",
+        "brand": "Asturiana",
+        "unit": "l",
+        "quantity": 1,
+        "price": 0.76,
+        "origin": "domestic",
+        "expiration": "2021-04-08",
+        "inCart": false,
+        "quantityInCart": 0
+      }
+    ],
+    "onSale": [
+      {
+        "id": 65480483,
+        "name": "Pineapple",
+        "description": "Whole pineapple",
+        "department": "produce",
+        "brand": "La Dorada",
+        "unit": "individual",
+        "quantity": 1,
+        "price": 3.18,
+        "salePrice": 2.78,
+        "origin": "foreign",
+        "expiration": "2021-04-05",
+        "inCart": false,
+        "quantityInCart": 0
+      },
+      {
+        "id": 80455226,
+        "name": "Chocolate Donuts",
+        "description": "Box of chocolate donuts",
+        "department": "bakery",
+        "brand": "Carrefour",
+        "unit": "individual",
+        "quantity": 1,
+        "price": 2.99,
+        "salePrice": 2.55,
+        "origin": "domestic",
+        "expiration": "2021-04-06",
+        "inCart": false,
+        "quantityInCart": 0
+      }
+    ]
+  },
+  {
+    "id": 10002,
+    "name": "Aldi",
+    "address": {
+      "street": "Avenida Einstein",
+      "city": "San Sebastián de los Reyes",
+      "postCode": 28703
+    },
+    "coordinates": [40.540769825897506, -3.610987018654218],
+    "telephone": 900902466,
+    "image": "https://corporate.aldi.us/fileadmin/_processed_/7/6/csm_aldi_logo_2017_cbae513198.jpg",
+    "products": [
+      {
+        "id": 656882,
+        "name": "Turkey breasts",
+        "description": "Tray of turkey breasts",
+        "department": "meats",
+        "brand": "Aldi",
+        "unit": "g",
+        "quantity": 500,
+        "price": 4.15,
+        "origin": "domestic",
+        "expiration": "2021-04-01",
+        "inCart": false,
+        "quantityInCart": 0
+      },
+      {
+        "id": 825523,
+        "name": "Pork Chops",
+        "description": "Tray of pork chops",
+        "department": "meats",
+        "brand": "Aldi",
+        "unit": "g",
+        "quantity": 400,
+        "price": 5.65,
+        "origin": "domestic",
+        "expiration": "2021-04-02",
+        "inCart": false,
+        "quantityInCart": 0
+      },
+      {
+        "id": 50458923,
+        "name": "Zucchini",
+        "description": "Ronde de Nice zucchini",
+        "department": "produce",
+        "brand": "Le Marché",
+        "unit": "g",
+        "quantity": 600,
+        "price": 1.95,
+        "origin": "foreign",
+        "expiration": "2021-04-28",
+        "inCart": false,
+        "quantityInCart": 0
+      },
+      {
+        "id": 89898993,
+        "name": "Strawberries",
+        "description": "Tray of Spanish strawberries",
+        "department": "produce",
+        "brand": "Buena Vida",
+        "unit": "g",
+        "quantity": 500,
+        "price": 2.09,
+        "origin": "domestic",
+        "expiration": "2021-04-06",
+        "inCart": false,
+        "quantityInCart": 0
+      }
+    ],
+    "onSale": [
+      {
+        "id": 65788122,
+        "name": "Broccoli",
+        "description": "Tray of broccoli",
+        "department": "produce",
+        "brand": "Campo Verde",
+        "unit": "g",
+        "quantity": 500,
+        "price": 1.19,
+        "salePrice": 0.89,
+        "origin": "domestic",
+        "expiration": "2021-04-06",
+        "inCart": false,
+        "quantityInCart": 0
+      },
+      {
+        "id": 32557982,
+        "name": "Olive Oil",
+        "description": "Bottle of extra virgin olive oil",
+        "department": "canned and bottled goods",
+        "brand": "Coosur",
+        "unit": "l",
+        "quantity": 1,
+        "price": 5.24,
+        "salePrice": 3.58,
+        "origin": "domestic",
+        "expiration": "2022-03-20",
+        "inCart": false,
+        "quantityInCart": 0
+      },
+      {
+        "id": 12554336,
+        "name": "Eggs",
+        "description": "Half dozen eggs",
+        "department": "meats",
+        "brand": "Gutbio",
+        "unit": "individual",
+        "quantity": 1,
+        "price": 1.99,
+        "salePrice": 1.59,
+        "origin": "domestic",
+        "expiration": "2021-04-10",
+        "inCart": false,
+        "quantityInCart": 0
+      }
+    ]
+  }
+]
